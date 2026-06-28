@@ -5,3 +5,9 @@ Developed a Bayesian model-based gender prediction project in December 2023.I ke
 **Completed: December 2023**
 
 Completed in December 2023, this project was independently designed and implemented without the use of any AI-assisted development tools. It stands as a milestone marking the end of my undergraduate studies and serves as a personal reminder of where my journey in computer science began.
+
+### Project Structure
+
+* **modifyTxt.cpp** – Handles raw data preprocessing.
+* **FirstgetName.cpp** – Contains the primary implementation of the gender prediction algorithm.
+* **ClassifyPeopleByCode.h** – Core header file providing data processing and classification functions.
